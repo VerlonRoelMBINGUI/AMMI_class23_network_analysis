@@ -1,0 +1,26 @@
+Name;Country;Age;Field;Background;Friend 1;Friend 2;Friend 3;Friend 4;Friend 5
+Verlon;Congo Brazzaville;oWsCB/+gS+vc+GqdYheJlQ===\;AMMI;Mathematics;Dieu-Donne;Uriel;Lionel;Phanie;Jaleel
+Phanie;Cameroon;q6NxF/tTREvZ/1JqaZLeIg===\;AMMI;Physics;Sorel;Dieu-Donne;Honorine;Uriel;Verlon
+Dieu-Donne;Benin;Ml2EoEE5hloNEcx1e61gHQ===\;AMMI;Mathematics;Verlon;Uriel;Lionel;Phanie;Jaleel
+Mame Diarra Diop;Senegal;Yo0A5wlJWVmOLVSoY/y57w===\;AMMI;Biology;Sorel;Uriel;Ngone;Mame Diarra Diouf;Amisi
+Honorine;Benin;q6NxF/tTREvZ/1JqaZLeIg===\;AMMI;Physics;Binta;Khady;Ngone;Phanie;Samueal
+Binta;Senegal;oWsCB/+gS+vc+GqdYheJlQ===\;AMMI;Computer Science;Khady;Damaris;Sorel;Honorine;Solafa
+Armandine;Cameroon;Yo0A5wlJWVmOLVSoY/y57w===\;AMMI;Computer Science;Phanie;Mame Diarra Diop;Binta;Damaris;Lionel
+Omer;Sudan;fbUazztbrV2LAZo4N5I60Q===\;AMMI;Statistics;El Mamoune;Binta;Armandine;Fay;Bahati
+Khady;Senegal;oWsCB/+gS+vc+GqdYheJlQ===\;AMMI;Computer Science;Ngone;Binta;Honorine;El Mamoune;Phanie
+Bahati;RD Congo;Wwl6V+4SxEBCYVw4rG7Ekg===\;AMMI;Mathematics;Khady;Damaris;Amisi;Omer;Elie
+Fay;Sudan;q6NxF/tTREvZ/1JqaZLeIg===\;AMMI;Engineering;Omer;Mitchell;Abigail;Solafa;Khady
+Mame Diarra Diouf;Senegal;fbUazztbrV2LAZo4N5I60Q===\;AMMI;Mathematics;Mitchell;Ngone;Solafa;Binta;Khady
+Solafa;Sudan;adeg3zvRcDRh0svdZdFzEg===\;AMMI;Chemical Engineering;Ngone;Mame Diarra Diouf;Abigail;Uriel;Verlon
+Ngone;Senegal;Wwl6V+4SxEBCYVw4rG7Ekg===\;AMMI;Mathematics;Solafa;Mame Diarra Diouf;Khady;Binta;El Mamoune
+Damaris;Cameroon;2tpzt0Drzm3Vhf/DNFDwvA===\;AMMI;Computer Science;Binta;Mitchell;Abigail;Bahati;Verlon
+Abigail;Ghana;HkYckrrvS6N/oia5FqgBXQ===\;AMMI;Aviation;Mitchell;Damaris;Solafa;Fay;Binta
+Mitchell;Zimbabwe;adeg3zvRcDRh0svdZdFzEg===\;AMMI;Engineering;Damaris;Abigail;Fay;Mame Diarra Diouf;El Mamoune
+Regis;Ivory Coast;Yo0A5wlJWVmOLVSoY/y57w===\;AMMI;Fluid Dynamics;Elie;Verlon;John;Jaleel;Dieu-Donne
+Samueal;Ethiopia;q6NxF/tTREvZ/1JqaZLeIg===\;AMMI;Software Engineering;Robin;Lionel;Solafa;Khady;John
+Robin;Madagascar;Ml2EoEE5hloNEcx1e61gHQ===\;AMMI;Mathematics;Samueal;Bahati;Solafa;Uriel;John
+John;Kenya;7usfb5czA7l60qCrSCuSvQ===\;AMMI;Statistics;Verlon;Regis;Damaris;Robin;Etienne
+Etienne;RD Congo;c5pr/ZW2zT+8SnUL9mtqQg===\;AMMI;Bio-Informatics;Lionel;Elie;Verlon;John;Amisi
+Lionel;Cameroon;zPe95Dp4QVdxxK4HdFZExg===\;AMMI;Mathematics;Etienne;Verlon;Dieu-Donne;Samueal;Uriel
+Jaleel;Nigeria;Yo0A5wlJWVmOLVSoY/y57w===\;AMMI;Statistics;Regis;Uriel;Lionel;Daniel;Omer
+Uriel;Cameroon;7usfb5czA7l60qCrSCuSvQ===\;AMMI;Industrial Robotic Engineering;Dieu-Donne;Lionel;Phanie;Verlon;Jaleel
